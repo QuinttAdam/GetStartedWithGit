@@ -6,5 +6,6 @@ doSomething();
 function doSomethingElse(){
     console.log("ok");
 }
-
+//uifsdhfiouhsn
+//joooo
 doSomethingElse();
